@@ -1,0 +1,10 @@
+/home/dam/Documentos/AD/2ºTrimestre/PracticaMongoPostgres/MongoChamador/src/main/java/org/example/Main.java
+/home/dam/Documentos/AD/2ºTrimestre/PracticaMongoPostgres/MongoChamador/src/main/java/org/example/Secuencia.java
+/home/dam/Documentos/AD/2ºTrimestre/PracticaMongoPostgres/MongoChamador/src/main/java/org/example/config/Config.java
+/home/dam/Documentos/AD/2ºTrimestre/PracticaMongoPostgres/MongoChamador/src/main/java/org/example/controller/RestPeliculas.java
+/home/dam/Documentos/AD/2ºTrimestre/PracticaMongoPostgres/MongoChamador/src/main/java/org/example/model/Actor.java
+/home/dam/Documentos/AD/2ºTrimestre/PracticaMongoPostgres/MongoChamador/src/main/java/org/example/model/Pelicula.java
+/home/dam/Documentos/AD/2ºTrimestre/PracticaMongoPostgres/MongoChamador/src/main/java/org/example/repository/ActorRepository.java
+/home/dam/Documentos/AD/2ºTrimestre/PracticaMongoPostgres/MongoChamador/src/main/java/org/example/repository/PeliculaRepository.java
+/home/dam/Documentos/AD/2ºTrimestre/PracticaMongoPostgres/MongoChamador/src/main/java/org/example/service/ConexionService.java
+/home/dam/Documentos/AD/2ºTrimestre/PracticaMongoPostgres/MongoChamador/src/main/java/org/example/service/PeliculaService.java
