@@ -1,0 +1,49 @@
+[ {
+  "idPelicula" : "697b25cc80d42d31d99409c2",
+  "titulo" : "Mamma Mia!",
+  "xenero" : "Musical / Comedia Romántica",
+  "ano" : 2008,
+  "actores" : [ {
+    "idActor" : null,
+    "nome" : "Meryl Streep",
+    "apelidos" : "Streep",
+    "nacionalidade" : "USA",
+    "idPelicula" : null
+  }, {
+    "idActor" : null,
+    "nome" : "Amanda Seyfried",
+    "apelidos" : "Seyfried",
+    "nacionalidade" : "USA",
+    "idPelicula" : null
+  }, {
+    "idActor" : null,
+    "nome" : "Stellan Skarsgård",
+    "apelidos" : "Skarsgård",
+    "nacionalidade" : "Suecia",
+    "idPelicula" : null
+  } ]
+}, {
+  "idPelicula" : "697b25cc80d42d31d99409c3",
+  "titulo" : "Top Gun",
+  "xenero" : "Acción / Drama",
+  "ano" : 1986,
+  "actores" : [ {
+    "idActor" : null,
+    "nome" : "Tom Cruise",
+    "apelidos" : "Cruise",
+    "nacionalidade" : "USA",
+    "idPelicula" : null
+  }, {
+    "idActor" : null,
+    "nome" : "Kelly McGillis",
+    "apelidos" : "McGillis",
+    "nacionalidade" : "USA",
+    "idPelicula" : null
+  }, {
+    "idActor" : null,
+    "nome" : "Val Kilmer",
+    "apelidos" : "Kilmer",
+    "nacionalidade" : "USA",
+    "idPelicula" : null
+  } ]
+} ]
