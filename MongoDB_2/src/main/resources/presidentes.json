@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pres_001",
+    "nombre": "Pedro Sánchez",
+    "edad": 52,
+    "partido": "PSOE"
+  },
+  {
+    "id": "pres_002",
+    "nombre": "Alberto Núñez Feijóo",
+    "edad": 64,
+    "partido": "PP"
+  },
+  {
+    "id": "pres_003",
+    "nombre": "Marcelo Rebelo de Sousa",
+    "edad": 76,
+    "partido": "Independente"
+  },
+  {
+    "id": "pres_004",
+    "nombre": "Emmanuel Macron",
+    "edad": 46,
+    "partido": "La République En Marche"
+  }
+]
+
