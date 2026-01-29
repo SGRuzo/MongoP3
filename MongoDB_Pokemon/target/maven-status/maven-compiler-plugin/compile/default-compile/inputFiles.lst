@@ -1,0 +1,15 @@
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/Main.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/config/MongoConfig.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/config/OpenApiConfig.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/controller/RestAdestrador.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/controller/RestPokemon.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/controller/RestPokemonConObjectId.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/model/Adestrador.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/model/Pokemon.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/model/PokemonConObjectId.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/repository/AdestradorRepository.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/repository/PokemonConObjectIdRepository.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/repository/PokemonRepository.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/service/AdestradorService.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/service/PokemonConObjectIdService.java
+/home/dam/Documentos/AD/2ºTrimestre/MongoExemplosEnlaceDatos/MongonatorProfeReferenciado/src/main/java/org/example/service/PokemonService.java

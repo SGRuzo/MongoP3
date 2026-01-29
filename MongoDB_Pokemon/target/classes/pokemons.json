@@ -1,0 +1,16 @@
+[
+  {
+    "nome": "Pikachu",
+    "tipo": ["eléctrico"],
+    "nivel": 15,
+    "habilidades": ["impactrueno", "rayo"],
+    "id_adestrador": "60f7f4e2a2d3c4b5a6e7f8c1"
+  },
+  {
+    "nome": "Charmander",
+    "tipo": ["fuego"],
+    "nivel": 12,
+    "habilidades": ["brasas", "ascuas"],
+    "id_adestrador_objid": "60f7f4e2a2d3c4b5a6e7f8c2"
+  }
+]
